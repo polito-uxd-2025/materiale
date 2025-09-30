@@ -8,6 +8,7 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 * [Che cos'è lo UXD?](./slides/01-whatisUXD.pdf)
 * [Overview dei temi e dei progetti](./slides/02-themes-projects-overview.pdf)
 * [Bisogni, task, e loro analisi](./slides/03-users-needs-tasks.pdf)
+* [Needfinding](./slides/04-needfinding.pdf)
 
 ## Assignments
 * Assignment 1
