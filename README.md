@@ -9,6 +9,8 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 * [Overview dei temi e dei progetti](./slides/02-themes-projects-overview.pdf)
 * [Bisogni, task, e loro analisi](./slides/03-users-needs-tasks.pdf)
 * [Needfinding](./slides/04-needfinding.pdf)
+* [Scenari, storyboard, e prototipazione a bassa fedeltà](./slides/05-scenarios-storyboards-lowfi.pdf)
+* [Principi di design](./slides/06-design-principles.pdf)
 
 ## Assignments
 * [Assignment 1](./assignments/A1-needfinding.pdf)
