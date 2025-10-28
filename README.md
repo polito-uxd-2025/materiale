@@ -14,6 +14,7 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 * [Interazione con l'intelligenza artificiale](./slides/07-interazione-ai.pdf)
 * [Design visivo](./slides/08-visual-design.pdf)
 * [Pattern di design e linee guide](./slides/09-design-patterns.pdf)
+* [Approcci gamificati (parte 1)](./slides/10-gamification-1.pdf)
 
 ## Assignments
 * [Assignment 1](./assignments/A1-needfinding.pdf)
