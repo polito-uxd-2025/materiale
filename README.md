@@ -15,6 +15,7 @@ Materiale per il corso _[User Experience Design](https://github.com/polito-uxd-2
 * [Design visivo](./slides/08-visual-design.pdf)
 * [Pattern di design e linee guide](./slides/09-design-patterns.pdf)
 * [Approcci gamificati (parte 1)](./slides/10-gamification-1.pdf)
+* [Approcci gamificati (parte 2)](./slides/11-gamification-2.pdf)
 
 ## Assignments
 * [Assignment 1](./assignments/A1-needfinding.pdf)
